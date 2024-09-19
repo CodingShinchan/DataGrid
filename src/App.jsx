@@ -26,7 +26,7 @@ const App = () => {
 
   return (
     <div className="app-container">
-      <h1>DataGrid with Search, Sort, and Filter</h1>
+      <h1>DataGrid</h1>
 
       {/* Search Input */}
       <div className="search-box">
